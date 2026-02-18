@@ -4,7 +4,7 @@ Este proyecto utiliza datos históricos de la **English Premier League (2000–2
 
 # EPL Champion Predictor 🏆
 
-#EPL Goals per Team Predictor ⚽
+# EPL Goals per Team Predictor ⚽
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<TU_USUARIO>/<TU_REPO>/blob/main/EPL_Champion_Predictor.ipynb)
 
